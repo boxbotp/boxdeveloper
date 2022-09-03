@@ -13,23 +13,7 @@ Join server https://linkjar.co/xella
 
 <!-- 2048GameActions --><a href="https://github.com/Darkempire78/Darkempire78/issues/new?title=2048|slideUp&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="Assets/slideUp.png"/> </a> <a href="https://github.com/Darkempire78/Darkempire78/issues/new?title=2048|slideDown&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="Assets/slideDown.png"/> </a> <a href="https://github.com/Darkempire78/Darkempire78/issues/new?title=2048|slideLeft&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="Assets/slideLeft.png"/> </a> <a href="https://github.com/Darkempire78/Darkempire78/issues/new?title=2048|slideRight&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="Assets/slideRight.png"/> </a><!-- 2048GameActions -->
 
-## Leaderboard
-
-<!-- 2048Ranking -->
-| Players | Actions |
-|---------------|:---------:|
-| [@Darkempire78](https://github.com/Darkempire78) | 17 |
-| [@Pandicon](https://github.com/Pandicon) | 15 |
-| [@8BitJonny](https://github.com/8BitJonny) | 10 |
-| [@andalonga](https://github.com/andalonga) | 5 |
-| [@wolf-yuan-6115](https://github.com/wolf-yuan-6115) | 4 |
-| [@zurgeg](https://github.com/zurgeg) | 4 |
-| [@AlexisHuvier](https://github.com/AlexisHuvier) | 3 |
-| [@elias1607](https://github.com/elias1607) | 3 |
-| [@Sellig6792](https://github.com/Sellig6792) | 3 |
-| [@pieckenst](https://github.com/pieckenst) | 3 |
-<!-- 2048Ranking -->
-
+#
 <details><summary><b>How this works</b></summary>
 When you click a button, it opens a GitHub Issue with the required pre-populated text. Just push "Create New Issue". That will trigger a GitHub Actions workflow that'll update my GitHub Profile README.md with the new state of the gameboard.
 </details>
